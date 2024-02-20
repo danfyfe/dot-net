@@ -1,42 +1,29 @@
-﻿Random dice = new Random();
+﻿Random random = new Random();
+int daysUntilExpiration = random.Next(12);
+int discountPercentage = daysUntilExpiration == 1 ? 20 : 10;
+string message = "";
+string discountMessage = $"\nRenew now and save {discountPercentage}%!";
 
-int roll1 = dice.Next(1, 7);
-int roll2 = dice.Next(1, 7);
-int roll3 = dice.Next(1, 7);
+Console.WriteLine($"Days until expiration: {daysUntilExpiration}.");
 
-int total = roll1 + roll2 + roll3;
-
-Console.WriteLine($"Dice roll: {roll1} + {roll2} + {roll3} = {total}");
-
-if ((roll1 == roll2) || (roll2 == roll3) || (roll1 == roll3))
+if (daysUntilExpiration <= 10)
 {
-  if ((roll1 == roll2) && (roll2 == roll3))
-  {
-    Console.WriteLine("You rolled triples!  +6 bonus to total!");
-    total += 6;
-  }
-  else
-  {
-    Console.WriteLine("You rolled doubles!  +2 bonus to total!");
-    total += 2;
-  }
-
-  Console.WriteLine($"Your total including the bonus: {total}");
+  message = "Your subscription will expire soon. Renew now!";
 }
 
-if (total >= 16)
+if (daysUntilExpiration <= 5)
 {
-  Console.WriteLine("You win a new car!");
+  message = $"Your subscription expires in {daysUntilExpiration} days. {discountMessage}";
 }
-else if (total >= 10)
+
+if (daysUntilExpiration == 0)
 {
-  Console.WriteLine("You win a new laptop!");
+  message = "Your subscription has expired.";
 }
-else if (total == 7)
+
+if (daysUntilExpiration == 1)
 {
-  Console.WriteLine("You win a trip for two!");
+  message = $"Your subscription expires within a day! {discountMessage}";
 }
-else
-{
-  Console.WriteLine("You win a kitten!");
-}
+
+Console.WriteLine(message);
