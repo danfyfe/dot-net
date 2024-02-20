@@ -1,0 +1,15 @@
+/Users/danfyfe/Development/dot-net/proj-if-else/bin/Debug/net7.0/proj-if-else
+/Users/danfyfe/Development/dot-net/proj-if-else/bin/Debug/net7.0/proj-if-else.deps.json
+/Users/danfyfe/Development/dot-net/proj-if-else/bin/Debug/net7.0/proj-if-else.runtimeconfig.json
+/Users/danfyfe/Development/dot-net/proj-if-else/bin/Debug/net7.0/proj-if-else.dll
+/Users/danfyfe/Development/dot-net/proj-if-else/bin/Debug/net7.0/proj-if-else.pdb
+/Users/danfyfe/Development/dot-net/proj-if-else/obj/Debug/net7.0/proj-if-else.csproj.AssemblyReference.cache
+/Users/danfyfe/Development/dot-net/proj-if-else/obj/Debug/net7.0/proj-if-else.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danfyfe/Development/dot-net/proj-if-else/obj/Debug/net7.0/proj-if-else.AssemblyInfoInputs.cache
+/Users/danfyfe/Development/dot-net/proj-if-else/obj/Debug/net7.0/proj-if-else.AssemblyInfo.cs
+/Users/danfyfe/Development/dot-net/proj-if-else/obj/Debug/net7.0/proj-if-else.csproj.CoreCompileInputs.cache
+/Users/danfyfe/Development/dot-net/proj-if-else/obj/Debug/net7.0/proj-if-else.dll
+/Users/danfyfe/Development/dot-net/proj-if-else/obj/Debug/net7.0/refint/proj-if-else.dll
+/Users/danfyfe/Development/dot-net/proj-if-else/obj/Debug/net7.0/proj-if-else.pdb
+/Users/danfyfe/Development/dot-net/proj-if-else/obj/Debug/net7.0/proj-if-else.genruntimeconfig.cache
+/Users/danfyfe/Development/dot-net/proj-if-else/obj/Debug/net7.0/ref/proj-if-else.dll
