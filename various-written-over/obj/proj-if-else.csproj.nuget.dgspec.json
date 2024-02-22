@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/danfyfe/Development/dot-net/proj-if-else/proj-if-else.csproj": {}
+    "/Users/danfyfe/Development/dot-net/various-written-over/proj-if-else.csproj": {}
   },
   "projects": {
-    "/Users/danfyfe/Development/dot-net/proj-if-else/proj-if-else.csproj": {
+    "/Users/danfyfe/Development/dot-net/various-written-over/proj-if-else.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/danfyfe/Development/dot-net/proj-if-else/proj-if-else.csproj",
+        "projectUniqueName": "/Users/danfyfe/Development/dot-net/various-written-over/proj-if-else.csproj",
         "projectName": "proj-if-else",
-        "projectPath": "/Users/danfyfe/Development/dot-net/proj-if-else/proj-if-else.csproj",
+        "projectPath": "/Users/danfyfe/Development/dot-net/various-written-over/proj-if-else.csproj",
         "packagesPath": "/Users/danfyfe/.nuget/packages/",
-        "outputPath": "/Users/danfyfe/Development/dot-net/proj-if-else/obj/",
+        "outputPath": "/Users/danfyfe/Development/dot-net/various-written-over/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/danfyfe/.nuget/NuGet/NuGet.Config"
