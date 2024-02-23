@@ -1,0 +1,15 @@
+/Users/danfyfe/Development/dot-net/console/obj/Debug/net7.0/console.csproj.AssemblyReference.cache
+/Users/danfyfe/Development/dot-net/console/obj/Debug/net7.0/console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danfyfe/Development/dot-net/console/obj/Debug/net7.0/console.AssemblyInfoInputs.cache
+/Users/danfyfe/Development/dot-net/console/obj/Debug/net7.0/console.AssemblyInfo.cs
+/Users/danfyfe/Development/dot-net/console/obj/Debug/net7.0/console.csproj.CoreCompileInputs.cache
+/Users/danfyfe/Development/dot-net/console/bin/Debug/net7.0/console
+/Users/danfyfe/Development/dot-net/console/bin/Debug/net7.0/console.deps.json
+/Users/danfyfe/Development/dot-net/console/bin/Debug/net7.0/console.runtimeconfig.json
+/Users/danfyfe/Development/dot-net/console/bin/Debug/net7.0/console.dll
+/Users/danfyfe/Development/dot-net/console/bin/Debug/net7.0/console.pdb
+/Users/danfyfe/Development/dot-net/console/obj/Debug/net7.0/console.dll
+/Users/danfyfe/Development/dot-net/console/obj/Debug/net7.0/refint/console.dll
+/Users/danfyfe/Development/dot-net/console/obj/Debug/net7.0/console.pdb
+/Users/danfyfe/Development/dot-net/console/obj/Debug/net7.0/console.genruntimeconfig.cache
+/Users/danfyfe/Development/dot-net/console/obj/Debug/net7.0/ref/console.dll
