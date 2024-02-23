@@ -1,0 +1,15 @@
+/Users/danfyfe/Development/dot-net/errors/bin/Debug/net7.0/errors
+/Users/danfyfe/Development/dot-net/errors/bin/Debug/net7.0/errors.deps.json
+/Users/danfyfe/Development/dot-net/errors/bin/Debug/net7.0/errors.runtimeconfig.json
+/Users/danfyfe/Development/dot-net/errors/bin/Debug/net7.0/errors.dll
+/Users/danfyfe/Development/dot-net/errors/bin/Debug/net7.0/errors.pdb
+/Users/danfyfe/Development/dot-net/errors/obj/Debug/net7.0/errors.csproj.AssemblyReference.cache
+/Users/danfyfe/Development/dot-net/errors/obj/Debug/net7.0/errors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danfyfe/Development/dot-net/errors/obj/Debug/net7.0/errors.AssemblyInfoInputs.cache
+/Users/danfyfe/Development/dot-net/errors/obj/Debug/net7.0/errors.AssemblyInfo.cs
+/Users/danfyfe/Development/dot-net/errors/obj/Debug/net7.0/errors.csproj.CoreCompileInputs.cache
+/Users/danfyfe/Development/dot-net/errors/obj/Debug/net7.0/errors.dll
+/Users/danfyfe/Development/dot-net/errors/obj/Debug/net7.0/refint/errors.dll
+/Users/danfyfe/Development/dot-net/errors/obj/Debug/net7.0/errors.pdb
+/Users/danfyfe/Development/dot-net/errors/obj/Debug/net7.0/errors.genruntimeconfig.cache
+/Users/danfyfe/Development/dot-net/errors/obj/Debug/net7.0/ref/errors.dll

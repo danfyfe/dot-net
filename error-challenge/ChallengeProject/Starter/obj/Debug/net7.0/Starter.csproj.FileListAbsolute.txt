@@ -1,0 +1,15 @@
+/Users/danfyfe/Development/dot-net/error-challenge/ChallengeProject/Starter/bin/Debug/net7.0/Starter
+/Users/danfyfe/Development/dot-net/error-challenge/ChallengeProject/Starter/bin/Debug/net7.0/Starter.deps.json
+/Users/danfyfe/Development/dot-net/error-challenge/ChallengeProject/Starter/bin/Debug/net7.0/Starter.runtimeconfig.json
+/Users/danfyfe/Development/dot-net/error-challenge/ChallengeProject/Starter/bin/Debug/net7.0/Starter.dll
+/Users/danfyfe/Development/dot-net/error-challenge/ChallengeProject/Starter/bin/Debug/net7.0/Starter.pdb
+/Users/danfyfe/Development/dot-net/error-challenge/ChallengeProject/Starter/obj/Debug/net7.0/Starter.csproj.AssemblyReference.cache
+/Users/danfyfe/Development/dot-net/error-challenge/ChallengeProject/Starter/obj/Debug/net7.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danfyfe/Development/dot-net/error-challenge/ChallengeProject/Starter/obj/Debug/net7.0/Starter.AssemblyInfoInputs.cache
+/Users/danfyfe/Development/dot-net/error-challenge/ChallengeProject/Starter/obj/Debug/net7.0/Starter.AssemblyInfo.cs
+/Users/danfyfe/Development/dot-net/error-challenge/ChallengeProject/Starter/obj/Debug/net7.0/Starter.csproj.CoreCompileInputs.cache
+/Users/danfyfe/Development/dot-net/error-challenge/ChallengeProject/Starter/obj/Debug/net7.0/Starter.dll
+/Users/danfyfe/Development/dot-net/error-challenge/ChallengeProject/Starter/obj/Debug/net7.0/refint/Starter.dll
+/Users/danfyfe/Development/dot-net/error-challenge/ChallengeProject/Starter/obj/Debug/net7.0/Starter.pdb
+/Users/danfyfe/Development/dot-net/error-challenge/ChallengeProject/Starter/obj/Debug/net7.0/Starter.genruntimeconfig.cache
+/Users/danfyfe/Development/dot-net/error-challenge/ChallengeProject/Starter/obj/Debug/net7.0/ref/Starter.dll
